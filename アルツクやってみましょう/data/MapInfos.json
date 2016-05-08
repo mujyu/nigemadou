@@ -1,5 +1,9 @@
 [
 null,
 {"id":1,"expanded":true,"name":"test","order":1,"parentId":0,"scrollX":544,"scrollY":317.3333333333333},
+<<<<<<< HEAD
 {"id":2,"expanded":false,"name":"お試し","order":2,"parentId":1,"scrollX":819,"scrollY":461}
+=======
+{"id":2,"expanded":false,"name":"お試し","order":2,"parentId":1,"scrollX":832,"scrollY":640}
+>>>>>>> parent of 0ed0d26... test辻
 ]
