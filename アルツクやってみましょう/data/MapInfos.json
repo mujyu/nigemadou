@@ -1,5 +1,10 @@
 [
 null,
+<<<<<<< HEAD
 {"id":1,"expanded":true,"name":"test","order":1,"parentId":0,"scrollX":819,"scrollY":461},
 {"id":2,"expanded":false,"name":"お試し","order":2,"parentId":1,"scrollX":819,"scrollY":461}
+=======
+{"id":1,"expanded":true,"name":"test","order":1,"parentId":0,"scrollX":544,"scrollY":317.3333333333333},
+{"id":2,"expanded":false,"name":"お試し","order":2,"parentId":1,"scrollX":544,"scrollY":317.3333333333333}
+>>>>>>> 0ed0d2661aa0b1593d9b3c626c2ce5e994fd44be
 ]
