@@ -2,7 +2,7 @@
 null,
 {"id":1,"expanded":false,"name":"test","order":1,"parentId":0,"scrollX":819,"scrollY":461},
 {"id":2,"expanded":false,"name":"お試し","order":2,"parentId":1,"scrollX":819,"scrollY":461},
-{"id":3,"expanded":true,"name":"マオウ城１階","order":3,"parentId":0,"scrollX":811,"scrollY":461},
+{"id":3,"expanded":true,"name":"マオウ城１階","order":3,"parentId":0,"scrollX":811,"scrollY":701},
 {"id":4,"expanded":false,"name":"マオウ城２階","order":4,"parentId":3,"scrollX":811,"scrollY":461},
 {"id":5,"expanded":false,"name":"SELECT","order":5,"parentId":0,"scrollX":819,"scrollY":461}
 ]
